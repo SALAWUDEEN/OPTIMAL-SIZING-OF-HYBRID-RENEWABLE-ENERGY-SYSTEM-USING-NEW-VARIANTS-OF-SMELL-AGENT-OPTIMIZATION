@@ -1,4 +1,38 @@
 Copyright (c) 2021, Salawudeen Ahmed Tijani
+
+% Instruction
+The data used in this simulation have been removed due to proprietory reasons. 
+Fill in your data in the excel file and every thing should be fine.
+
+--Note: 
+	The Data should be named as "Val_Data.xlsx"
+        The first column should be the solar Radiation data
+        The second column should be the Wind Speed data
+        Third third column should be the Load Profile data
+Choose the variant to simulate by runing the following
+
+%Run Levy_QOBL_SAO_run.m to simulate.
+%Run QOBL_SAO_run.m to simulate.
+%SAO_run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -28,13 +62,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
-% Instruction
-The data used in this simulation have been removed due to proprietory reasons. 
-Fill in your data in the excel file and every thing should be fine
-
-%Run Levy_QOBL_SAO_run.m to simulate.
-%Run QOBL_SAO_run.m to simulate.
-%SAO_run
 
 
 
